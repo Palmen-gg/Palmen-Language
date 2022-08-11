@@ -1,0 +1,58 @@
+{
+  "NONE": "",
+  "PALMEN_PREFIX": "&a&lPALMEN",
+  "PALMEN_CHAT_PREFIX": "&a&lPALMEN &8{d_arrow_r}&r ",
+  "CORE": {
+    "LANGUAGE": {
+      "MISSING_KEY": "&8[&4Missing language key&8: &c{0}&8]"
+    },
+    "COMMANDAPI": {
+      "RESTRICTED_TO_PLAYER": "&cThis command is limited to players only!",
+      "RESTRICTED_TO_CONSOLE": "&cThis command is limited to console only!",
+      "INVALID_FORMAT": "&cInvalid command format!\n&cUsage: /{0}",
+      "NO_PERMISSION": "&c&oYour magical powers are too weak to use this spell!",
+      "MISSING_USAGE": "&cMISSING COMMAND USAGE",
+      "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION"
+    },
+    "COMMAND": {
+      "RELOAD_LANGUAGE_SUCCESS": "&aSuccessfully reloaded {0} languages!",
+      "RELOAD_LANGUAGE_USAGE": "reload-language",
+      "RELOAD_LANGUAGE_DESC": "Reloads every language file."
+    }
+  },
+  "GENERIC": {
+    "MESSAGE": {
+      "GIVEN_PLAYER_NOT_FOUND": "Couldn't find the given player.",
+      "GIVEN_RANK_NOT_FOUND": "Couldn't find the given rank."
+    }
+  },
+  "SPAWN": {
+    "COMMAND": {
+      "SET_SPAWN": "&aYou set the spawn-location.",
+      "SPAWN_TELEPORTED": "&aYou teleported to the spawn point."
+    }
+  },
+  "BUILD": {
+    "COMMAND": {
+      "SETSPAWN_SUCCESS": "&aSpawn set!",
+      "FLYSPEED_SET": "Your {0}speed was set to &e{1}",
+      "FLYSPEED_USAGE": "speed (1-10)",
+      "FLYSPEED_DESC": "Set your speed."
+    }
+  },
+  "UTILS": {
+    "COMMAND": {
+      "GAMEMODE_USAGE": "gamemode (mode | player) [mode]",
+      "GAMEMODE_DESC": "Change the gamemode of a player.",
+      "GAMEMODE_INVALID_MODE": "Invalid gamemode '{0}'.",
+      "GAMEMODE_CHANGED_OWN": "You changed your gamemode to {0}.",
+      "GAMEMODE_CHANGED_OTHER": "You changed the gamemode of {0} to {1}.",
+      "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} changed their gamemode to {1}.",
+      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} to {2}."
+    },
+    "TAB": {
+      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
+      "FOOTER": "\n&ehead over to &6palmen.gg\n &efor more information!\n"
+    }
+  }
+}
