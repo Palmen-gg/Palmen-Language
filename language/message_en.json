@@ -1,7 +1,7 @@
 {
   "NONE": "",
-  "PALMEN_PREFIX": "&a&lPALMEN",
-  "PALMEN_CHAT_PREFIX": "&a&lPALMEN &8{d_arrow_r}&r ",
+  "PALMEN_PREFIX": "&6&lPALMEN",
+  "PALMEN_CHAT_PREFIX": "&6&lPALMEN &8{d_arrow_r}&r ",
   "CORE": {
     "LANGUAGE": {
       "MISSING_KEY": "&8[&4Missing language key&8: &c{0}&8]"
@@ -10,7 +10,7 @@
       "RESTRICTED_TO_PLAYER": "&cThis command is limited to players only!",
       "RESTRICTED_TO_CONSOLE": "&cThis command is limited to console only!",
       "INVALID_FORMAT": "&cInvalid command format!\n&cUsage: /{0}",
-      "NO_PERMISSION": "&c&oYour magical powers are too weak to use this spell!",
+      "NO_PERMISSION": "&cYou aren't cool enough to use this surfboard.",
       "MISSING_USAGE": "&cMISSING COMMAND USAGE",
       "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION"
     },
