@@ -7,23 +7,23 @@
       "MISSING_KEY": "&8[&4MANGLENDE SPRÅKNØKKEL&8: &c{0}&8]"
     },
     "COMMANDAPI": {
-      "RESTRICTED_TO_PLAYER": "&cThis command is limited to players only!",
-      "RESTRICTED_TO_CONSOLE": "&cThis command is limited to console only!",
-      "INVALID_FORMAT": "&cInvalid command format!\n&cUsage: /{0}",
-      "NO_PERMISSION": "&cYou aren't cool enough to use this surfboard.",
-      "MISSING_USAGE": "&cMISSING COMMAND USAGE",
-      "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION"
+      "RESTRICTED_TO_PLAYER": "&cDenne kommandoen kan kun brukes av spillere!",
+      "RESTRICTED_TO_CONSOLE": "&cDenne kommandoen kan kun brukes av konsollen!",
+      "INVALID_FORMAT": "&cInvalid kommando format!\n&cUsage: /{0}",
+      "NO_PERMISSION": "&cDu er ikke kul nok til å bruke dette surfebrettet.",
+      "MISSING_USAGE": "&cMANGLENDE KOMMANDO BRUK",
+      "MISSING_DESC": "&cMANGLENDE KOMMANDO BESKRIVELSE"
     },
     "COMMAND": {
-      "RELOAD_LANGUAGE_SUCCESS": "&aSuccessfully reloaded {0} languages!",
+      "RELOAD_LANGUAGE_SUCCESS": "&aLastet inn {0} språk!",
       "RELOAD_LANGUAGE_USAGE": "reload-language",
-      "RELOAD_LANGUAGE_DESC": "Reloads every language file."
+      "RELOAD_LANGUAGE_DESC": "Laster inn alle språkfiler på nytt."
     }
   },
   "GENERIC": {
     "MESSAGE": {
-      "GIVEN_PLAYER_NOT_FOUND": "Couldn't find the given player.",
-      "GIVEN_RANK_NOT_FOUND": "Couldn't find the given rank."
+      "GIVEN_PLAYER_NOT_FOUND": "Kunne ikke finne spilleren.",
+      "GIVEN_RANK_NOT_FOUND": "Kunne ikke finne ranken."
     }
   },
   "SPAWN": {
@@ -34,25 +34,25 @@
   },
   "BUILD": {
     "COMMAND": {
-      "SETSPAWN_SUCCESS": "&aSpawn set!",
-      "FLYSPEED_SET": "Your {0}speed was set to &e{1}",
+      "SETSPAWN_SUCCESS": "&aSpawn satt!",
+      "FLYSPEED_SET": "Din {0}hastighet ble satt til &e{1}",
       "FLYSPEED_USAGE": "speed (1-10)",
-      "FLYSPEED_DESC": "Set your speed."
+      "FLYSPEED_DESC": "Sett din hastighet."
     }
   },
   "UTILS": {
     "COMMAND": {
       "GAMEMODE_USAGE": "gamemode (mode | player) [mode]",
-      "GAMEMODE_DESC": "Change the gamemode of a player.",
+      "GAMEMODE_DESC": "Endre din gamemode.",
       "GAMEMODE_INVALID_MODE": "Invalid gamemode '{0}'.",
-      "GAMEMODE_CHANGED_OWN": "You changed your gamemode to {0}.",
-      "GAMEMODE_CHANGED_OTHER": "You changed the gamemode of {0} to {1}.",
-      "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} changed their gamemode to {1}.",
-      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} to {2}."
+      "GAMEMODE_CHANGED_OWN": "Du endret din gamemode til {0}.",
+      "GAMEMODE_CHANGED_OTHER": "Du endret gamemoden til {0} til {1}.",
+      "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} endret sin gamemode til {1}.",
+      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} endret gamemoden til {1} til {2}."
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
-      "FOOTER": "\n&ehead over to &6palmen.gg\n &efor more information!\n"
+      "FOOTER": "\n&ebesøk &6palmen.gg\n&efor mer informasjon!\n"
     }
   },
   "ARENAPVP": {
@@ -60,30 +60,30 @@
       "PREFIX": "&e&lARENA&6&lPVP &8{d_arrow_r}&r "
     },
     "MESSAGE": {
-      "MELEE_DEATH_MESSAGE": "{0} was brutally killed by {1}.",
-      "MELEE_DEATH_KILL_STREAK_MESSAGE": "{0} was brutally killed by {1}, ending their {2} kill streak.",
-      "ARROW_DEATH_MESSAGE": "{0} was pierced by {1}.",
-      "ARROW_DEATH_KILL_STREAK_MESSAGE": "{0} was pierced by {1}, ending their {2} kill streak.",
-      "KILL_STREAK_5": "{0} is on a &fkilling spree{r}!",
-      "KILL_STREAK_10": "{0} is &adominating{r}!",
-      "KILL_STREAK_15": "{0} got a &emega kill{r}!",
-      "KILL_STREAK_20": "{0} is &6unstoppable{r}!",
-      "KILL_STREAK_25": "{0} is &cwicked sick{r}!",
-      "KILL_STREAK_30": "{0} got a &c&lMONSTER KILL&r{r}!",
-      "KILL_STREAK_35": "{0} is &d&lGODLIKE!&r",
-      "KILL_STREAK_40": "{0} is &d&lBEYOND GODLIKE!!!!!"
+      "MELEE_DEATH_MESSAGE": "{0} ble drept av {1}.",
+      "MELEE_DEATH_KILL_STREAK_MESSAGE": "{0} ble drept av {1}, og endte kill streaken på {2}.",
+      "ARROW_DEATH_MESSAGE": "{0} ble skutt av {1}.",
+      "ARROW_DEATH_KILL_STREAK_MESSAGE": "{0} ble skutt av {1}, og endte kill streaken på {2}.",
+      "KILL_STREAK_5": "{0} er på en &fkillingspree{r}!",
+      "KILL_STREAK_10": "{0} &adominerer{r}!",
+      "KILL_STREAK_15": "{0} fikk et &emega kill{r}!",
+      "KILL_STREAK_20": "{0} er &6ustoppelig{r}!",
+      "KILL_STREAK_25": "{0} er &csinnsyk{r}!",
+      "KILL_STREAK_30": "{0} fikk et &c&lMONSTER KILL&r{r}!",
+      "KILL_STREAK_35": "{0} er &d&lGODLIKE!&r",
+      "KILL_STREAK_40": "{0} er &d&lBEYOND GODLIKE!!!!!"
     },
     "TITLE": {
       "KILL_STREAK_A5": "&f&lKilling Spree&r",
       "KILL_STREAK_B5": "&7&lKilling Spree&r",
-      "KILL_STREAK_A10": "&a&lDominating&r",
-      "KILL_STREAK_B10": "&2&lDominating&r",
+      "KILL_STREAK_A10": "&a&lDominerer&r",
+      "KILL_STREAK_B10": "&2&lDominerer&r",
       "KILL_STREAK_A15": "&e&lMega Kill&r",
       "KILL_STREAK_B15": "&6&lMega Kill&r",
-      "KILL_STREAK_A20": "&6&lUnstoppable&r",
-      "KILL_STREAK_B20": "&e&lUnstoppable&r",
-      "KILL_STREAK_A25": "&c&lWicked Sick&r",
-      "KILL_STREAK_B25": "&4&lWicked Sick&r",
+      "KILL_STREAK_A20": "&6&lUstoppelig&r",
+      "KILL_STREAK_B20": "&e&lUstoppelig&r",
+      "KILL_STREAK_A25": "&c&lSinnsyk&r",
+      "KILL_STREAK_B25": "&4&lSinnsyk&r",
       "KILL_STREAK_A30": "&c&lMONSTER KILL&r",
       "KILL_STREAK_B30": "&4&lMONSTER KILL&r",
       "KILL_STREAK_A35": "&d&lGODLIKE!&r",
