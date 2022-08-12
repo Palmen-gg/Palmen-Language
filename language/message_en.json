@@ -54,5 +54,43 @@
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
       "FOOTER": "\n&ehead over to &6palmen.gg\n &efor more information!\n"
     }
+  },
+  "ARENAPVP": {
+    "CHAT": {
+      "PREFIX": "&e&lARENA&6&lPVP &8{d_arrow_r}&r "
+    },
+    "MESSAGE": {
+      "MELEE_DEATH_MESSAGE": "{0} was brutally killed by {1}.",
+      "MELEE_DEATH_KILL_STREAK_MESSAGE": "{0} was brutally killed by {1}, ending their {2} kill streak.",
+      "ARROW_DEATH_MESSAGE": "{0} was pierced by {1}.",
+      "ARROW_DEATH_KILL_STREAK_MESSAGE": "{0} was pierced by {1}, ending their {2} kill streak.",
+      "KILL_STREAK_5": "{0} is on a &fkilling spree{r}!",
+      "KILL_STREAK_10": "{0} is &adominating{r}!",
+      "KILL_STREAK_15": "{0} got a &emega kill{r}!",
+      "KILL_STREAK_20": "{0} is &6unstoppable{r}!",
+      "KILL_STREAK_25": "{0} is &cwicked sick{r}!",
+      "KILL_STREAK_30": "{0} got a &c&lMONSTER KILL&r{r}!",
+      "KILL_STREAK_35": "{0} is &d&lGODLIKE!&r",
+      "KILL_STREAK_40": "{0} is &d&lBEYOND GODLIKE!!!!!"
+    },
+    "TITLE": {
+      "KILL_STREAK_A5": "&f&lKilling Spree&r",
+      "KILL_STREAK_B5": "&7&lKilling Spree&r",
+      "KILL_STREAK_A10": "&a&lDominating&r",
+      "KILL_STREAK_B10": "&2&lDominating&r",
+      "KILL_STREAK_A15": "&e&lMega Kill&r",
+      "KILL_STREAK_B15": "&6&lMega Kill&r",
+      "KILL_STREAK_A20": "&6&lUnstoppable&r",
+      "KILL_STREAK_B20": "&e&lUnstoppable&r",
+      "KILL_STREAK_A25": "&c&lWicked Sick&r",
+      "KILL_STREAK_B25": "&4&lWicked Sick&r",
+      "KILL_STREAK_A30": "&c&lMONSTER KILL&r",
+      "KILL_STREAK_B30": "&4&lMONSTER KILL&r",
+      "KILL_STREAK_A35": "&d&lGODLIKE!&r",
+      "KILL_STREAK_B35": "&5&lGODLIKE!&r",
+      "KILL_STREAK_A40": "&e&l&k***&r &d&lBEYOND GODLIKE!!!!!&r &e&l&k***&r",
+      "KILL_STREAK_B40": "&6&l&k***&r &5&lBEYOND GODLIKE!!!!!&r &6&l&k***&r",
+      "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
+    }
   }
 }
