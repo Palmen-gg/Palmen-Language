@@ -4,7 +4,7 @@
   "PALMEN_CHAT_PREFIX": "&6&lPALMEN &8{d_arrow_r}&r ",
   "CORE": {
     "LANGUAGE": {
-      "MISSING_KEY": "&8[&4Missing language key&8: &c{0}&8]"
+      "MISSING_KEY": "&8[&4MANGLENDE SPRÅKNØKKEL&8: &c{0}&8]"
     },
     "COMMANDAPI": {
       "RESTRICTED_TO_PLAYER": "&cThis command is limited to players only!",
