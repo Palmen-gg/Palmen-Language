@@ -49,10 +49,42 @@
       "GAMEMODE_CHANGED_OTHER": "Uwu changed the gamemode of {0} to {1}.",
       "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} changed theiw gamemode tuwu {1}.",
       "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} tuwu {2}."
+      "TELEPORT_USAGE": "teleport (pwayer | ((x) (y) (z) [yaw] [pitch]))",
+      "TELEPORT_DESC": "Tewepowt tuwu a pwayer ow tuwu a wocation.",
+      "TELEPORT_TELEPORTED": "Uwu tewepowted tuwu {0}.",
+      "TELEPORT_TELEPORTED_OTHER": "Uwu tewepowted {0} tuwu {1}.",
+      "TELEPORT_TELEPORTED_BROADCAST": "{0} tewepowted tuwu {1}.",
+      "TELEPORT_TELEPORTED_OTHER_BROADCAST": "{0} tewepowted {1} tuwu {2}.",
+      "STOP_USAGE": "stop",
+      "STOP_DESC": "Stops the sewvew.",
+      "GIVE_USAGE": "give (Matewiaw[:data]) [amount]",
+      "GIVE_DESC": "Spawn in a specific item.",
+      "GIVE_SUCCESS": "Item spawned!",
+      "WEATHER_USAGE": "weather (cweaw | wain)",
+      "WEATHER_DESC": "Change the weathew.",
+      "WEATHER_CHANGED": "The weathew has been changed tuwu {0}.",
+      "CLEAR_USAGE": "clear",
+      "CLEAR_DESC": "Cweaws youw inventowy.",
+      "CLEAR_SUCCESS": "Youw inventowy has been cweawed.",
+      "BUILD_USAGE": "build",
+      "BUILD_DESC": "Toggwes buiwd mode on and off.",
+      "BUILD_USELESS": "Buiwding ow bweaking isn't tuwned off.",
+      "BUILD_TOGGLED": "Buiwd mode tuwned {0}.",
+      "BUILD_ON": "&aon",
+      "BUILD_OFF": "&coff"
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
       "FOOTER": "\n&ehead ovew tuwu &6palmen.gg\n &efow mowe infowmation!\n"
+    },
+    "MESSAGE": {
+      "CHAT_MODE_CHANGE": "The chat has been set to {0} mode.",
+      "CHAT_MODE_NO_PERMISSION": "The chat is cuwwentwy in {0} mode.",
+      "CHAT_MODE_DEFAULT": "defauwt",
+      "CHAT_MODE_DONATOR": "pwemium onwy",
+      "CHAT_MODE_STAFF": "staff onwy",
+      "JOIN_MESSAGE": "{0}&r &7connected.",
+      "QUIT_MESSAGE": "{0}&r &7disconnected."
     }
   },
   "ARENAPVP": {
