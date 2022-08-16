@@ -1,0 +1,96 @@
+{
+  "NONE": "",
+  "PALMEN_PREFIX": "&6&lPALMEN&r",
+  "PALMEN_CHAT_PREFIX": "&6&lPALMEN &8{d_arrow_r}&r ",
+  "CORE": {
+    "LANGUAGE": {
+      "MISSING_KEY": "&8[&4Missing wanguage key&8: &c{0}&8]"
+    },
+    "COMMANDAPI": {
+      "RESTRICTED_TO_PLAYER": "&cThiws command iws wimited tuwu pwayews onwy!",
+      "RESTRICTED_TO_CONSOLE": "&cThiws command iws wimited tuwu consowe onwy!",
+      "INVALID_FORMAT": "&cInvawid command fowmat!\n&cUsage: /{0}",
+      "NO_PERMISSION": "&cUwu awen't coow enough tuwu use thiws suwfboawd.",
+      "MISSING_USAGE": "&cMISSING COMMAND USAGE",
+      "MISSING_DESC": "&cMISSING COMMAND DESCWIPTION"
+    },
+    "COMMAND": { 
+      "RELOAD_LANGUAGE_SUCCESS": "&aSuccessfuwwy wewoaded {0} wanguages!",
+      "RELOAD_LANGUAGE_USAGE": "wewoad-wanguage",
+      "RELOAD_LANGUAGE_DESC": "Wewoads evewy wanguage fiwe."
+    }
+  },
+  "GENERIC": {
+    "MESSAGE": {
+      "GIVEN_PLAYER_NOT_FOUND": "Couwdn't find the given pwayew.",
+      "GIVEN_RANK_NOT_FOUND": "Couwdn't find the given wank."
+    }
+  },
+  "SPAWN": {
+    "COMMAND": {
+      "SET_SPAWN": "&aUwu set the spawn-wocation.",
+      "SPAWN_TELEPORTED": "&aUwu tewepowted tuwu the spawn point."
+    }
+  },
+  "BUILD": {
+    "COMMAND": {
+      "SETSPAWN_SUCCESS": "&aSpawn set!",
+      "FLYSPEED_SET": "Youw {0}speed was set tuwu &e{1}",
+      "FLYSPEED_USAGE": "speed (1-10)",
+      "FLYSPEED_DESC": "Set youw speed."
+    }
+  },
+  "UTILS": {
+    "COMMAND": {
+      "GAMEMODE_USAGE": "gamemode (mode | pwayew) [mode]",
+      "GAMEMODE_DESC": "Change the gamemode of a pwayew.",
+      "GAMEMODE_INVALID_MODE": "Invawid gamemode '{0}'.",
+      "GAMEMODE_CHANGED_OWN": "Uwu changed youw gamemode tuwu {0}.",
+      "GAMEMODE_CHANGED_OTHER": "Uwu changed the gamemode of {0} to {1}.",
+      "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} changed theiw gamemode tuwu {1}.",
+      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} tuwu {2}."
+    },
+    "TAB": {
+      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
+      "FOOTER": "\n&ehead ovew tuwu &6palmen.gg\n &efow mowe infowmation!\n"
+    }
+  },
+  "ARENAPVP": {
+    "CHAT": {
+      "PREFIX": "&e&lARENA&6&lPVP &8{d_arrow_r}&r "
+    },
+    "MESSAGE": {
+      "MELEE_DEATH_MESSAGE": "{0} was bwutawwy kiwwed by {1}.",
+      "MELEE_DEATH_KILL_STREAK_MESSAGE": "{0} was bwutawwy kiwwed by {1}, ending theiw {2} kiww stweak.",
+      "ARROW_DEATH_MESSAGE": "{0}was piewced by {1}.",
+      "ARROW_DEATH_KILL_STREAK_MESSAGE": "{0} was piewced by {1}, ending theiw {2} kiww stweak.",
+      "KILL_STREAK_5": "{0} iws own a &fkiwwing spwee{r}!",
+      "KILL_STREAK_10": "{0} iws &adominating{r}!",
+      "KILL_STREAK_15": "{0} got a &emega kiww{r}!",
+      "KILL_STREAK_20": "{0} iws &6unstoppabwe{r}!",
+      "KILL_STREAK_25": "{0} iws &cwicked sick{r}!",
+      "KILL_STREAK_30": "{0} got a &c&lMONSTEW KIWW&r{r}!",
+      "KILL_STREAK_35": "{0} iws &d&lGODWIKE!&r",
+      "KILL_STREAK_40": "{0} iws &d&lBEYOND GODWIKE!!!!!"
+    },
+    "TITLE": {
+      "KILL_STREAK_A5": "&f&lKiwwing Spwee&r",
+      "KILL_STREAK_B5": "&7&lKiwwing Spwee&r",
+      "KILL_STREAK_A10": "&a&lDominating&r",
+      "KILL_STREAK_B10": "&2&lDominating&r",
+      "KILL_STREAK_A15": "&e&lMega Kiww&r",
+      "KILL_STREAK_B15": "&6&lMega Kiww&r",
+      "KILL_STREAK_A20": "&6&lUnstoppabwe&r",
+      "KILL_STREAK_B20": "&e&lUnstoppabwe&r",
+      "KILL_STREAK_A25": "&c&lWicked Sick&r",
+      "KILL_STREAK_B25": "&4&lWicked Sick&r",
+      "KILL_STREAK_A30": "&c&lMONSTEW KIWW&r",
+      "KILL_STREAK_B30": "&4&lMONSTEW KIWW&r",
+      "KILL_STREAK_A35": "&d&lGODWIKE!&r",
+      "KILL_STREAK_B35": "&5&lGODWIKE!&r",
+      "KILL_STREAK_A40": "&e&l&k***&r &d&lBEYOND GODWIKE!!!!!&r &e&l&k***&r",
+      "KILL_STREAK_B40": "&6&l&k***&r &5&lBEYOND GODWIKE!!!!!&r &6&l&k***&r",
+      "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
+    }
+  }
+}
