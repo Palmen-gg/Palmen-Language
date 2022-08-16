@@ -13,7 +13,7 @@
       "NO_PERMISSION": "&cDu er ikke kul nok til å bruke dette surfebrettet.",
       "MISSING_USAGE": "&cMANGLENDE KOMMANDO BRUK",
       "MISSING_DESC": "&cMANGLENDE KOMMANDO BESKRIVELSE",
-      "UNKNOWN_COMMAND": "&cUnknown command {0}."
+      "UNKNOWN_COMMAND": "&cUkjent kommando {0}."
     },
     "COMMAND": {
       "RELOAD_LANGUAGE_SUCCESS": "&aLastet inn {0} språk!",
@@ -25,12 +25,12 @@
     "MESSAGE": {
       "GIVEN_PLAYER_NOT_FOUND": "Kunne ikke finne spilleren.",
       "GIVEN_RANK_NOT_FOUND": "Kunne ikke finne ranken.",
-      "GIVEN_MATERIAL_NOT_FOUND": "Couldn't find the given material."
+      "GIVEN_MATERIAL_NOT_FOUND": "Kunne ikke finne riktig material."
     }
   },
   "SPAWN": {
     "COMMAND": {
-      "SET_SPAWN": "&aYou set the spawn-location.",
+      "SET_SPAWN": "&aDu satt spawn.",
       "SPAWN_TELEPORTED": "&aYou teleported to the spawn point."
     }
   },
@@ -52,41 +52,41 @@
       "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} endret sin gamemode til {1}.",
       "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} endret gamemoden til {1} til {2}.",
       "TELEPORT_USAGE": "teleport (player | ((x) (y) (z) [yaw] [pitch]))",
-      "TELEPORT_DESC": "Teleport to a player or to a location.",
-      "TELEPORT_TELEPORTED": "You teleported to {0}.",
-      "TELEPORT_TELEPORTED_OTHER": "You teleported {0} to {1}.",
-      "TELEPORT_TELEPORTED_BROADCAST": "{0} teleported to {1}.",
-      "TELEPORT_TELEPORTED_OTHER_BROADCAST": "{0} teleported {1} to {2}.",
+      "TELEPORT_DESC": "Teleporter til en spiller eller en lokasjon.",
+      "TELEPORT_TELEPORTED": "Du teleporterte til {0}.",
+      "TELEPORT_TELEPORTED_OTHER": "Du teleporterte {0} til {1}.",
+      "TELEPORT_TELEPORTED_BROADCAST": "{0} teleporterte til {1}.",
+      "TELEPORT_TELEPORTED_OTHER_BROADCAST": "{0} teleporterte {1} til {2}.",
       "STOP_USAGE": "stop",
-      "STOP_DESC": "Stops the server.",
+      "STOP_DESC": "Stopper serveren.",
       "GIVE_USAGE": "give (Material[:data]) [amount]",
-      "GIVE_DESC": "Spawn in a specific item.",
-      "GIVE_SUCCESS": "Item spawned!",
+      "GIVE_DESC": "Spawn inn et item.",
+      "GIVE_SUCCESS": "Item spawnet!",
       "WEATHER_USAGE": "weather (clear | rain)",
-      "WEATHER_DESC": "Change the weather.",
-      "WEATHER_CHANGED": "The weather has been changed to {0}.",
+      "WEATHER_DESC": "Endre været.",
+      "WEATHER_CHANGED": "Været har blitt endret til {0}.",
       "CLEAR_USAGE": "clear",
-      "CLEAR_DESC": "Clears your inventory.",
-      "CLEAR_SUCCESS": "Your inventory has been cleared.",
+      "CLEAR_DESC": "Fjerner alt i ditt inventory.",
+      "CLEAR_SUCCESS": "Alt har blitt fjernet fra ditt inventory.",
       "BUILD_USAGE": "build",
-      "BUILD_DESC": "Toggles build mode on and off.",
-      "BUILD_USELESS": "Building or breaking isn't turned off.",
-      "BUILD_TOGGLED": "Build mode turned {0}.",
-      "BUILD_ON": "&aon",
-      "BUILD_OFF": "&coff"
+      "BUILD_DESC": "Skrur byggemodus på og av.",
+      "BUILD_USELESS": "Det er ingen grunn til å skru på byggemodus.",
+      "BUILD_TOGGLED": "Byggemodus skrudd {0}.",
+      "BUILD_ON": "&apå",
+      "BUILD_OFF": "&cav"
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
       "FOOTER": "\n&ebesøk &6palmen.gg\n&efor mer informasjon!\n"
     },
     "MESSAGE": {
-      "CHAT_MODE_CHANGE": "The chat has been set to {0} mode.",
-      "CHAT_MODE_NO_PERMISSION": "The chat is currently in {0} mode.",
-      "CHAT_MODE_DEFAULT": "default",
-      "CHAT_MODE_DONATOR": "premium only",
-      "CHAT_MODE_STAFF": "staff only",
-      "JOIN_MESSAGE": "{0}&r &7connected.",
-      "QUIT_MESSAGE": "{0}&r &7disconnected."
+      "CHAT_MODE_CHANGE": "Chatten har blitt satt i {0} modus.",
+      "CHAT_MODE_NO_PERMISSION": "Chatten er for øyeblikket i {0} modus.",
+      "CHAT_MODE_DEFAULT": "vanlig",
+      "CHAT_MODE_DONATOR": "premium",
+      "CHAT_MODE_STAFF": "staff",
+      "JOIN_MESSAGE": "{0}&r &7koblet til.",
+      "QUIT_MESSAGE": "{0}&r &7koblet fra."
     }
   },
   "ARENAPVP": {
