@@ -12,7 +12,8 @@
       "INVALID_FORMAT": "&cInvalid command format!\n&cUsage: /{0}",
       "NO_PERMISSION": "&cYou aren't cool enough to use this surfboard.",
       "MISSING_USAGE": "&cMISSING COMMAND USAGE",
-      "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION"
+      "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION",
+      "UNKNOWN_COMMAND": "&cUnknown command {0}."
     },
     "COMMAND": {
       "RELOAD_LANGUAGE_SUCCESS": "&aSuccessfully reloaded {0} languages!",
@@ -23,7 +24,8 @@
   "GENERIC": {
     "MESSAGE": {
       "GIVEN_PLAYER_NOT_FOUND": "Couldn't find the given player.",
-      "GIVEN_RANK_NOT_FOUND": "Couldn't find the given rank."
+      "GIVEN_RANK_NOT_FOUND": "Couldn't find the given rank.",
+      "GIVEN_MATERIAL_NOT_FOUND": "Couldn't find the given material."
     }
   },
   "SPAWN": {
@@ -48,11 +50,43 @@
       "GAMEMODE_CHANGED_OWN": "You changed your gamemode to {0}.",
       "GAMEMODE_CHANGED_OTHER": "You changed the gamemode of {0} to {1}.",
       "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} changed their gamemode to {1}.",
-      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} to {2}."
+      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} to {2}.",
+      "TELEPORT_USAGE": "teleport (player | ((x) (y) (z) [yaw] [pitch]))",
+      "TELEPORT_DESC": "Teleport to a player or to a location.",
+      "TELEPORT_TELEPORTED": "You teleported to {0}.",
+      "TELEPORT_TELEPORTED_OTHER": "You teleported {0} to {1}.",
+      "TELEPORT_TELEPORTED_BROADCAST": "{0} teleported to {1}.",
+      "TELEPORT_TELEPORTED_OTHER_BROADCAST": "{0} teleported {1} to {2}.",
+      "STOP_USAGE": "stop",
+      "STOP_DESC": "Stops the server.",
+      "GIVE_USAGE": "give (Material[:data]) [amount]",
+      "GIVE_DESC": "Spawn in a specific item.",
+      "GIVE_SUCCESS": "Item spawned!",
+      "WEATHER_USAGE": "weather (clear | rain)",
+      "WEATHER_DESC": "Change the weather.",
+      "WEATHER_CHANGED": "The weather has been changed to {0}.",
+      "CLEAR_USAGE": "clear",
+      "CLEAR_DESC": "Clears your inventory.",
+      "CLEAR_SUCCESS": "Your inventory has been cleared.",
+      "BUILD_USAGE": "build",
+      "BUILD_DESC": "Toggles build mode on and off.",
+      "BUILD_USELESS": "Building or breaking isn't turned off.",
+      "BUILD_TOGGLED": "Build mode turned {0}.",
+      "BUILD_ON": "&aon",
+      "BUILD_OFF": "&coff"
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
       "FOOTER": "\n&ehead over to &6palmen.gg\n &efor more information!\n"
+    },
+    "MESSAGE": {
+      "CHAT_MODE_CHANGE": "The chat has been set to {0} mode.",
+      "CHAT_MODE_NO_PERMISSION": "The chat is currently in {0} mode.",
+      "CHAT_MODE_DEFAULT": "default",
+      "CHAT_MODE_DONATOR": "premium only",
+      "CHAT_MODE_STAFF": "staff only",
+      "JOIN_MESSAGE": "{0}&r &7connected.",
+      "QUIT_MESSAGE": "{0}&r &7disconnected."
     }
   },
   "ARENAPVP": {
