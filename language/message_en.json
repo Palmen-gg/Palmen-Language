@@ -1,6 +1,6 @@
 {
   "NONE": "",
-  "PALMEN_PREFIX": "&6&lPALMEN&r",
+  "PALMEN_PREFIX": "&6&lPALMEN",
   "PALMEN_CHAT_PREFIX": "&6&lPALMEN &8{d_arrow_r}&r ",
   "CORE": {
     "LANGUAGE": {
@@ -11,9 +11,9 @@
       "RESTRICTED_TO_CONSOLE": "&cThis command is limited to console only!",
       "INVALID_FORMAT": "&cInvalid command format!\n&cUsage: /{0}",
       "NO_PERMISSION": "&cYou aren't cool enough to use this surfboard.",
+      "UNKNOWN_COMMAND": "&cUnknown command {0}.",
       "MISSING_USAGE": "&cMISSING COMMAND USAGE",
-      "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION",
-      "UNKNOWN_COMMAND": "&cUnknown command {0}."
+      "MISSING_DESC": "&cMISSING COMMAND DESCRIPTION"
     },
     "COMMAND": {
       "RELOAD_LANGUAGE_SUCCESS": "&aSuccessfully reloaded {0} languages!",
@@ -25,7 +25,9 @@
     "MESSAGE": {
       "GIVEN_PLAYER_NOT_FOUND": "Couldn't find the given player.",
       "GIVEN_RANK_NOT_FOUND": "Couldn't find the given rank.",
-      "GIVEN_MATERIAL_NOT_FOUND": "Couldn't find the given material."
+      "GIVEN_MATERIAL_NOT_FOUND": "Couldn't find the given material.",
+      "ON": "&aon",
+      "OFF": "&coff"
     }
   },
   "SPAWN": {
@@ -59,25 +61,33 @@
       "TELEPORT_TELEPORTED_OTHER_BROADCAST": "{0} teleported {1} to {2}.",
       "STOP_USAGE": "stop",
       "STOP_DESC": "Stops the server.",
-      "GIVE_USAGE": "give (Material[:data]) [amount]",
+      "GIVE_USAGE": "give (player) (material[:data]) [amount]",
       "GIVE_DESC": "Spawn in a specific item.",
       "GIVE_SUCCESS": "Item spawned!",
+      "GIVEALL_USAGE": "giveall (material[:data]) [amount]",
+      "GIVEALL_DESC": "Give all players a specific item.",
       "WEATHER_USAGE": "weather (clear | rain)",
       "WEATHER_DESC": "Change the weather.",
       "WEATHER_CHANGED": "The weather has been changed to {0}.",
+      "LANGUAGE_USAGE": "lang (language code)",
+      "LANGUAGE_DESC": "Change the default language.",
+      "LANGUAGE_CHANGED": "You changed your default language to {0}.",
+      "LANGUAGE_IN_USE": "This language is already your default.",
+      "LANGUAGE_SUPPORT": "Supported languages:\n",
       "CLEAR_USAGE": "clear",
       "CLEAR_DESC": "Clears your inventory.",
       "CLEAR_SUCCESS": "Your inventory has been cleared.",
-      "BUILD_USAGE": "build",
+      "BUILD_USAGE": "build [player]",
       "BUILD_DESC": "Toggles build mode on and off.",
       "BUILD_USELESS": "Building or breaking isn't turned off.",
       "BUILD_TOGGLED": "Build mode turned {0}.",
+      "BUILD_TOGGLED_OTHER": "Build mode turned {0} for {1}.",
       "BUILD_ON": "&aon",
-      "BUILD_OFF": "&coff"
-    },
-    "TAB": {
-      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
-      "FOOTER": "\n&ehead over to &6palmen.gg\n &efor more information!\n"
+      "BUILD_OFF": "&coff",
+      "STAFFCHAT_USAGE": "staffchat [message]",
+      "STAFFCHAT_DESC": "Send a message or toggle staff chat.",
+      "STAFFCHAT_TOGGLED": "Staff chat turned {0}.",
+      "STAFFCHAT_FORMAT": "&4&lSTAFF&r &8{line} {0}&r &8{d_arrow_r}&r &c{1}"
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "The chat has been set to {0} mode.",
@@ -87,6 +97,10 @@
       "CHAT_MODE_STAFF": "staff only",
       "JOIN_MESSAGE": "{0}&r &7connected.",
       "QUIT_MESSAGE": "{0}&r &7disconnected."
+    },
+    "TAB": {
+      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
+      "FOOTER": "\n&ehead over to &6palmen.gg\n &efor more information!\n"
     }
   },
   "ARENAPVP": {
@@ -125,6 +139,13 @@
       "KILL_STREAK_A40": "&e&l&k***&r &d&lBEYOND GODLIKE!!!!!&r &e&l&k***&r",
       "KILL_STREAK_B40": "&6&l&k***&r &5&lBEYOND GODLIKE!!!!!&r &6&l&k***&r",
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
+    },
+    "SCOREBOARD": {
+      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lKills",
+      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDeaths",
+      "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoints",
+      "FOOTER_1": "&eVisit &6palmen.gg &efor",
+      "FOOTER_2": "&emore information!"
     }
   }
 }
