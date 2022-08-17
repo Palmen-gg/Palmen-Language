@@ -25,7 +25,9 @@
     "MESSAGE": {
       "GIVEN_PLAYER_NOT_FOUND": "Kunne ikke finne spilleren.",
       "GIVEN_RANK_NOT_FOUND": "Kunne ikke finne ranken.",
-      "GIVEN_MATERIAL_NOT_FOUND": "Kunne ikke finne riktig material."
+      "GIVEN_MATERIAL_NOT_FOUND": "Kunne ikke finne riktig material.",
+      "ON": "&apå",
+      "OFF": "&cav"
     }
   },
   "SPAWN": {
@@ -59,21 +61,32 @@
       "TELEPORT_TELEPORTED_OTHER_BROADCAST": "{0} teleporterte {1} til {2}.",
       "STOP_USAGE": "stop",
       "STOP_DESC": "Stopper serveren.",
-      "GIVE_USAGE": "give (Material[:data]) [amount]",
+      "GIVE_USAGE": "give (player) (Material[:data]) [amount]",
       "GIVE_DESC": "Spawn inn et item.",
       "GIVE_SUCCESS": "Item spawnet!",
+      "GIVEALL_USAGE": "giveall (material[:data]) [amount]",
+      "GIVEALL_DESC": "Give all players a specific item.",
       "WEATHER_USAGE": "weather (clear | rain)",
       "WEATHER_DESC": "Endre været.",
       "WEATHER_CHANGED": "Været har blitt endret til {0}.",
+      "LANGUAGE_USAGE": "lang (language code)",
+      "LANGUAGE_DESC": "Change the default language.",
+      "LANGUAGE_CHANGED": "You changed your default language to {0}.",
+      "LANGUAGE_IN_USE": "This language is already your default.",
+      "LANGUAGE_SUPPORT": "Supported languages:\n",
       "CLEAR_USAGE": "clear",
       "CLEAR_DESC": "Fjerner alt i ditt inventory.",
       "CLEAR_SUCCESS": "Alt har blitt fjernet fra ditt inventory.",
-      "BUILD_USAGE": "build",
+      "BUILD_USAGE": "build [player]",
       "BUILD_DESC": "Skrur byggemodus på og av.",
       "BUILD_USELESS": "Det er ingen grunn til å skru på byggemodus.",
       "BUILD_TOGGLED": "Byggemodus skrudd {0}.",
       "BUILD_ON": "&apå",
-      "BUILD_OFF": "&cav"
+      "BUILD_OFF": "&cav",
+      "STAFFCHAT_USAGE": "staffchat [message]",
+      "STAFFCHAT_DESC": "Send a message or toggle staff chat.",
+      "STAFFCHAT_TOGGLED": "Staff chat turned {0}.",
+      "STAFFCHAT_FORMAT": "&4&lSTAFF&r &8{line} {0}&r &8{d_arrow_r}&r &c{1}"
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
@@ -125,6 +138,12 @@
       "KILL_STREAK_A40": "&e&l&k***&r &d&lBEYOND GODLIKE!!!!!&r &e&l&k***&r",
       "KILL_STREAK_B40": "&6&l&k***&r &5&lBEYOND GODLIKE!!!!!&r &6&l&k***&r",
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
-    }
+    },
+    "SCOREBOARD": {
+      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lKills",
+      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDeaths",
+      "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoints",
+      "FOOTER_1": "&eVisit &6palmen.gg &efor",
+      "FOOTER_2": "&emore information!"
   }
 }
