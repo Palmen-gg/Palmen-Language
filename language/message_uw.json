@@ -75,7 +75,7 @@
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
-      "FOOTER": "\n&ehead ovew tuwu &6palmen.gg\n &efow mowe infowmation!\n"
+      "FOOTER": "\n&6&ldiscord.gg/palmen&r\n&7{d_arrow_r} &omc.palmen.gg&r &7{d_arrow_l}\n"
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "The chat has been set to {0} mode.",
