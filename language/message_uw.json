@@ -48,7 +48,7 @@
       "GAMEMODE_CHANGED_OWN": "Uwu changed youw gamemode tuwu {0}.",
       "GAMEMODE_CHANGED_OTHER": "Uwu changed the gamemode of {0} to {1}.",
       "GAMEMODE_CHANGED_OWN_BROADCAST": "{0} changed theiw gamemode tuwu {1}.",
-      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} tuwu {2}."
+      "GAMEMODE_CHANGED_OTHER_BROADCAST": "{0} changed the gamemode of {1} tuwu {2}.",
       "TELEPORT_USAGE": "teleport (pwayer | ((x) (y) (z) [yaw] [pitch]))",
       "TELEPORT_DESC": "Tewepowt tuwu a pwayer ow tuwu a wocation.",
       "TELEPORT_TELEPORTED": "Uwu tewepowted tuwu {0}.",
