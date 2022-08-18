@@ -143,7 +143,7 @@
       "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
-      "FOOTER_1": "&2&l{d_arrow_r}&r &a&lNettside:",
+      "FOOTER_1": "&a&lFor informasjon:",
       "FOOTER_2": "&7&l{d_arrow_r}&r &fpalmen.gg"
     }
   }
