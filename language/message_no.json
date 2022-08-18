@@ -90,7 +90,7 @@
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
-      "FOOTER": "\n&3&ldiscord.gg/palmen&r\n&7{d_arrow_r} &omc.palmen.gg&r &7{d_arrow_l}\n"
+      "FOOTER": "\n&b&ldiscord.gg/palmen&r\n&7{d_arrow_r} &omc.palmen.gg&r &7{d_arrow_l}\n"
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "Chatten har blitt satt i {0} modus.",
@@ -143,7 +143,7 @@
       "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
-      "FOOTER_1": "Besøk &3&lpalmen.gg&r &ffor",
+      "FOOTER_1": "Besøk &b&lpalmen.gg&r &ffor",
       "FOOTER_2": "mer informasjon!"
     }
   }
