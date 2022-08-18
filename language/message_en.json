@@ -99,13 +99,13 @@
       "QUIT_MESSAGE": "{0}&r &7disconnected."
     },
     "TAB": {
-      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&7{1}&r",
-      "FOOTER": "\n&6&ldiscord.gg/palmen&r\n&7{d_arrow_r} &omc.palmen.gg&r &7{d_arrow_l}\n"
+      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&b&l{0}&r\n&8[&7{3}&8]\n",
+      "FOOTER": "\n&7&o{2}&r\n&7&o{1}&r\n\n&e&ldiscord.gg/palmen&r\n&8{d_arrow_r} &o&7mc.palmen.gg&r &8{d_arrow_l}\n"
     }
   },
   "ARENAPVP": {
     "CHAT": {
-      "PREFIX": "&e&lARENA&6&lPVP &8{d_arrow_r}&r "
+      "PREFIX": "&b&lFFA &8{d_arrow_r}&r "
     },
     "MESSAGE": {
       "MELEE_DEATH_MESSAGE": "{0} was brutally killed by {1}.",
@@ -141,12 +141,12 @@
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
     },
     "SCOREBOARD": {
+      "TITLE": "&b&lFFA&r",
       "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lKills",
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDeaths",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoints",
       "FOOTER_1": "Visit &a&lpalmen.gg&r for",
-      "FOOTER_2": "more information!",
-      "TITLE": "&e&lARENA&6&lPVP&r"
+      "FOOTER_2": "more information!"
     }
   },
   "TEST": {
