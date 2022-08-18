@@ -152,20 +152,20 @@
     "SCOREBOARD": {
       "TITLE": "&e{d_arrow_r}&6{d_arrow_r}&r &6&lPalmen&r &6{d_arrow_l}&e{d_arrow_l}&r",
       "LINE_1": "",
-      "LINE_2": "Empty",
-      "LINE_3": "Empty",
-      "LINE_4": "Empty",
-      "LINE_5": "Empty",
-      "LINE_6": "Empty",
-      "LINE_7": "Empty",
-      "LINE_8": "Empty",
-      "LINE_9": "Empty",
-      "LINE_10": "Empty",
-      "LINE_11": "Empty",
-      "LINE_12": "Empty",
-      "LINE_13": "Empty",
-      "LINE_14": "Empty",
-      "LINE_15": "Empty"
+      "LINE_2": "&l&bNavn",
+      "LINE_3": "Varlem",
+      "LINE_4": "",
+      "LINE_5": "&l&Rang",
+      "LINE_6": "Eier",
+      "LINE_7": "",
+      "LINE_8": "&l&6Currency",
+      "LINE_9": "0",
+      "LINE_10": "",
+      "LINE_11": "&l&cServer",
+      "LINE_12": "Hub",
+      "LINE_13": "",
+      "LINE_14": "Besøk &a&lpalmen.gg&r &ffor",
+      "LINE_15": "mer informasjon!"
     }
   }
 }
