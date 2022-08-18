@@ -89,7 +89,7 @@
       "STAFFCHAT_FORMAT": "&4&lSTAFF&r &8{line} {0}&r &8{d_arrow_r}&r &c{1}"
     },
     "TAB": {
-      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&c&lFFA-TEST&r &8[&7{3}&8]\n&7&o{1}&r\n&7&o{2}&r\n",
+      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&c&l{0}&r &8[&7{3}&8]\n&7&o{2}&r\n&7&o{1}&r\n",
       "FOOTER": "\n&e&ldiscord.gg/palmen&r\n&8{d_arrow_r} &o&7mc.palmen.gg&r &8{d_arrow_l}\n" 
     },
     "MESSAGE": {
@@ -140,10 +140,10 @@
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
     },
     "SCOREBOARD": {
-      "TITLE": "&e&lARENA&6&lPVP&r",
-      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
-      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
-      "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
+      "TITLE": "&c&lFFA-TEST&r",
+      "KILLS_TITLE": "&2&l{d_arrow_r}&r &4&lDrap",
+      "DEATH_TITLE": "&2&l{d_arrow_r}&r &C&lDødsfall",
+      "POINTS_TITLE": "&2&l{d_arrow_r}&r &B&lPoeng",
       "FOOTER_1": "Besøk &e&lpalmen.gg&r &ffor",
       "FOOTER_2": "mer informasjon!"
     }
