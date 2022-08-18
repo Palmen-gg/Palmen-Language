@@ -150,22 +150,19 @@
   },
   "TEST": {
     "SCOREBOARD": {
-      "TITLE": "&e{d_arrow_r}&6{d_arrow_r}&r &6&lPalmen&r &6{d_arrow_l}&e{d_arrow_l}&r",
+      "TITLE": "&c&lBuild&r",
       "LINE_1": "",
       "LINE_2": "&b&lNavn&r",
       "LINE_3": "Varlem&r",
       "LINE_4": "",
       "LINE_5": "&a&lRang&r",
-      "LINE_6": "&eEier&r",
+      "LINE_6": "Eier&r",
       "LINE_7": "",
       "LINE_8": "&6&lBattle Pass&r",
       "LINE_9": "Level 1&r",
       "LINE_10": "",
-      "LINE_11": "&c&lServer&r",
-      "LINE_12": "Build&r",
-      "LINE_13": "",
-      "LINE_14": "Besøk &a&lpalmen.gg&r &ffor",
-      "LINE_15": "mer informasjon!"
+      "LINE_11": "Besøk &a&lpalmen.gg&r &ffor",
+      "LINE_12": "mer informasjon!"
     }
   }
 }
