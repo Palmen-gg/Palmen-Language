@@ -104,7 +104,7 @@
   },
   "ARENAPVP": {
     "CHAT": {
-      "PREFIX": "&b&lFFA &8{d_arrow_r}&r "
+      "PREFIX": "&c&lFFA &8{d_arrow_r}&r "
     },
     "MESSAGE": {
       "MELEE_DEATH_MESSAGE": "{0} ble drept av {1}.",
@@ -140,7 +140,7 @@
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
     },
     "SCOREBOARD": {
-      "TITLE": "&b&lFFA&r",
+      "TITLE": "&c&lFFA&r",
       "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
