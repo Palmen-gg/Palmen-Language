@@ -89,7 +89,7 @@
       "STAFFCHAT_FORMAT": "&4&lSTAFF&r &8{line} {0}&r &8{d_arrow_r}&r &c{1}"
     },
     "TAB": {
-      "HEADER": "\n&b&m--&m-&m))&r &3&lPALMEN&r &b&m((&m-&m--&r\n\n&c&l{0}&r\n&8[&7{3}&8]\n",
+      "HEADER": "\n&3&m--&m-&m))&r &b&lPALMEN&r &3&m((&m-&m--&r\n\n&c&l{0}&r\n&8[&7{3}&8]\n",
       "FOOTER": "\n&7&o{2}&r\n&7&o{1}&r\n\n&d&lshop.palmen.gg&r\n&f&ldiscord.gg/palmen&r\n\n&8{d_arrow_r} &o&7mc.palmen.gg&r &8{d_arrow_l}\n" 
     },
     "MESSAGE": {
