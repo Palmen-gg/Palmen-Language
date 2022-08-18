@@ -150,8 +150,8 @@
   },
   "TEST": {
     "SCOREBOARD": {
-      "TITLE": "???",
-      "LINE_1": "Empty",
+      "TITLE": "\n&e{d_arrow_r}&6{d_arrow_r}&r &6&lPalmen&r &6{d_arrow_l}&e{d_arrow_l}&r\n",
+      "LINE_1": "",
       "LINE_2": "Empty",
       "LINE_3": "Empty",
       "LINE_4": "Empty",
