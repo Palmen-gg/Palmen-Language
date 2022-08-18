@@ -141,8 +141,8 @@
     },
     "SCOREBOARD": {
       "TITLE": "&b&lFFA&r",
-      "KILLS_TITLE": "&2&l{d_arrow_r}&r &c&lDrap",
-      "DEATH_TITLE": "&2&l{d_arrow_r}&r &4&lDødsfall",
+      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
+      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
       "FOOTER_1": "Besøk &e&lpalmen.gg&r &ffor",
       "FOOTER_2": "mer informasjon!"
