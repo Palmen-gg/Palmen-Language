@@ -102,7 +102,7 @@
       "QUIT_MESSAGE": "{0}&r &7koblet fra."
     }
   },
-  "FFA": {
+  "ARENAPVP": {
     "CHAT": {
       "PREFIX": "&c&l{0} &8{d_arrow_r}&r "
     },
