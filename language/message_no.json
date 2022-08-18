@@ -140,11 +140,32 @@
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
     },
     "SCOREBOARD": {
+      "TITLE": "&e&lARENA&6&lPVP&r",
       "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
       "FOOTER_1": "Besøk &e&lpalmen.gg&r &ffor",
       "FOOTER_2": "mer informasjon!"
+    }
+  },
+  "TEST": {
+    "SCOREBOARD": {
+      "TITLE": "???",
+      "LINE_1": "Empty",
+      "LINE_2": "Empty",
+      "LINE_3": "Empty",
+      "LINE_4": "Empty",
+      "LINE_5": "Empty",
+      "LINE_6": "Empty",
+      "LINE_7": "Empty",
+      "LINE_8": "Empty",
+      "LINE_9": "Empty",
+      "LINE_10": "Empty",
+      "LINE_11": "Empty",
+      "LINE_12": "Empty",
+      "LINE_13": "Empty",
+      "LINE_14": "Empty",
+      "LINE_15": "Empty"
     }
   }
 }
