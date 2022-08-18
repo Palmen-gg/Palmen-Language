@@ -144,7 +144,7 @@
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
       "FOOTER_1": "&fFor mer informasjon",
-      "FOOTER_2": "&fbesøk &2&l{d_arrow_r}&r &a&lpalmen.gg"
+      "FOOTER_2": "&fbesøk &a&lpalmen.gg"
     }
   }
 }
