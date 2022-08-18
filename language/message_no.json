@@ -104,7 +104,7 @@
   },
   "ARENAPVP": {
     "CHAT": {
-      "PREFIX": "&c&lFFA &8{d_arrow_r}&r "
+      "PREFIX": "&b&lFFA &8{d_arrow_r}&r "
     },
     "MESSAGE": {
       "MELEE_DEATH_MESSAGE": "{0} ble drept av {1}.",
