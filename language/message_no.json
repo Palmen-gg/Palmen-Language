@@ -102,9 +102,9 @@
       "QUIT_MESSAGE": "{0}&r &7koblet fra."
     }
   },
-  "ARENAPVP": {
+  "FFA": {
     "CHAT": {
-      "PREFIX": "&e&lARENA&6&lPVP &8{d_arrow_r}&r "
+      "PREFIX": "&c&l{0} &8{d_arrow_r}&r "
     },
     "MESSAGE": {
       "MELEE_DEATH_MESSAGE": "{0} ble drept av {1}.",
@@ -140,10 +140,10 @@
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
     },
     "SCOREBOARD": {
-      "TITLE": "&c&lFFA-TEST&r",
-      "KILLS_TITLE": "&2&l{d_arrow_r}&r &4&lDrap",
-      "DEATH_TITLE": "&2&l{d_arrow_r}&r &C&lDødsfall",
-      "POINTS_TITLE": "&2&l{d_arrow_r}&r &B&lPoeng",
+      "TITLE": "&c&l{0}&r",
+      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lDrap",
+      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDødsfall",
+      "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoeng",
       "FOOTER_1": "Besøk &e&lpalmen.gg&r &ffor",
       "FOOTER_2": "mer informasjon!"
     }
