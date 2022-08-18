@@ -145,7 +145,28 @@
       "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDeaths",
       "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoints",
       "FOOTER_1": "Visit &a&lpalmen.gg&r for",
-      "FOOTER_2": "more information!"
+      "FOOTER_2": "more information!",
+      "TITLE": "&e&lARENA&6&lPVP&r"
+    }
+  },
+  "TEST": {
+    "SCOREBOARD": {
+      "TITLE": "???",
+      "LINE_1": "Empty",
+      "LINE_2": "Empty",
+      "LINE_3": "Empty",
+      "LINE_4": "Empty",
+      "LINE_5": "Empty",
+      "LINE_6": "Empty",
+      "LINE_7": "Empty",
+      "LINE_8": "Empty",
+      "LINE_9": "Empty",
+      "LINE_10": "Empty",
+      "LINE_11": "Empty",
+      "LINE_12": "Empty",
+      "LINE_13": "Empty",
+      "LINE_14": "Empty",
+      "LINE_15": "Empty"
     }
   }
 }
