@@ -89,7 +89,7 @@
   },
   "ARENAPVP": {
     "CHAT": {
-      "PREFIX": "&e&lARENA&6&lPVP &8{d_arrow_r}&r "
+      "PREFIX": "&e&lAWENA&6&lPVP &8{d_arrow_r}&r "
     },
     "MESSAGE": {
       "MELEE_DEATH_MESSAGE": "{0} was bwutawwy kiwwed by {1}.",
@@ -125,12 +125,12 @@
       "KILL_STREAK_SUBTITLE": "&7{0} KILLS"
     },
     "SCOREBOARD": {
-      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lKills",
-      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDeaths",
-      "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPoints",
-      "FOOTER_1": "Visit &a&lpalmen.gg&r for",
-      "FOOTER_2": "more information!",
-      "TITLE": "&e&lARENA&6&lPVP&r"
+      "KILLS_TITLE": "&2&l{d_arrow_r}&r &6&lKiwws",
+      "DEATH_TITLE": "&2&l{d_arrow_r}&r &6&lDeadeds",
+      "POINTS_TITLE": "&2&l{d_arrow_r}&r &6&lPowoints",
+      "FOOTER_1": "Visit &a&lpalmen.gg&r fow",
+      "FOOTER_2": "mowe infowmation!",
+      "TITLE": "&e&lAWENA&6&lPVP&r"
     }
   },
   "TEST": {
