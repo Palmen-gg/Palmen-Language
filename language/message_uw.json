@@ -94,7 +94,7 @@
     "MESSAGE": {
       "MELEE_DEATH_MESSAGE": "{0} was bwutawwy kiwwed by {1}.",
       "MELEE_DEATH_KILL_STREAK_MESSAGE": "{0} was bwutawwy kiwwed by {1}, ending theiw {2} kiww stweak.",
-      "ARROW_DEATH_MESSAGE": "{0}was piewced by {1}.",
+      "ARROW_DEATH_MESSAGE": "{0} was piewced by {1}.",
       "ARROW_DEATH_KILL_STREAK_MESSAGE": "{0} was piewced by {1}, ending theiw {2} kiww stweak.",
       "KILL_STREAK_5": "{0} iws own a &fkiwwing spwee{r}!",
       "KILL_STREAK_10": "{0} iws &adominating{r}!",
