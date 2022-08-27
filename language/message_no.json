@@ -152,7 +152,7 @@
     "SCOREBOARD": {
       "TITLE": "&6&lPALMEN&r",
       "LINE_1": "",
-      "LINE_2": "&8&l{line} &7&lRank&r",
+      "LINE_2": "&8&l{line} &f&lRank&r",
       "LINE_3": "&8&l{line}  &aSpiller&r",
       "LINE_4": "",
       "LINE_5": "&8&l{line} &3&lShards&r",
@@ -161,7 +161,7 @@
       "LINE_8": "&8&l{line} &6&lBattle Pass&r",
       "LINE_9": "&8&l{line}  &eLevel 1",
       "LINE_10": "",
-      "LINE_11": "  &amc.palmen.gg  ",
+      "LINE_11": "   &7mc.palmen.gg  ",
       "LINE_12": "",
       "LINE_13": "",
       "LINE_14": "",
