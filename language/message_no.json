@@ -89,8 +89,8 @@
       "STAFFCHAT_FORMAT": "&4&lSTAFF&r &8{line} {0}&r &8{d_arrow_r}&r &c{1}"
     },
     "TAB": {
-      "HEADER": "\n&3&m--&m-&m{{&r &b&lPALMEN&r &3&m}}&m-&m--&r\n\n&c&l{0}&r\n&8[&7{3}&8]\n",
-      "FOOTER": "\n&7&o{2}&r\n&7&o{1}&r\n\n&d&lshop.palmen.gg&r\n&f&ldiscord.gg/palmen&r\n\n&8{d_arrow_r} &o&7mc.palmen.gg&r &8{d_arrow_l}\n" 
+      "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&a&l{0}&r\n&8[&7{3}&8]\n",
+      "FOOTER": "\n&6&ldiscord.gg/palmen&r\n&a&lshop.palmen.gg&r\n&7mc.palmen.gg&r\n" 
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "Chatten har blitt satt i {0} modus.",
@@ -150,22 +150,22 @@
   },
   "TEST": {
     "SCOREBOARD": {
-      "TITLE": "???",
-      "LINE_1": "Empty",
-      "LINE_2": "Empty",
-      "LINE_3": "Empty",
-      "LINE_4": "Empty",
-      "LINE_5": "Empty",
-      "LINE_6": "Empty",
-      "LINE_7": "Empty",
-      "LINE_8": "Empty",
-      "LINE_9": "Empty",
-      "LINE_10": "Empty",
-      "LINE_11": "Empty",
-      "LINE_12": "Empty",
-      "LINE_13": "Empty",
-      "LINE_14": "Empty",
-      "LINE_15": "Empty"
+      "TITLE": "&6&lPALMEN&r",
+      "LINE_1": "",
+      "LINE_2": "&8\u258E &7&lRank&r",
+      "LINE_3": "&8\u258E  &aSpiller&r",
+      "LINE_4": "",
+      "LINE_5": "&8\u258E &3&lGems&r",
+      "LINE_6": "&8\u258E  &b1337",
+      "LINE_7": "",
+      "LINE_8": "&8\u258E &6&lBattle Pass&r",
+      "LINE_9": "&8\u258E  &eLevel 1",
+      "LINE_10": "",
+      "LINE_11": "&8\u258E &aBesøk &epalmen.gg &afor",
+      "LINE_12": "&8\u258E &amer informasjon!",
+      "LINE_13": "",
+      "LINE_14": "1",
+      "LINE_15": "2"
     }
   }
 }
