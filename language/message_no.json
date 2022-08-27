@@ -90,7 +90,7 @@
     },
     "TAB": {
       "HEADER": "&8+                                        +\n&e&m--&6&m--&8&m&l]-&r &6&lPALMEN&r &8&m&l-[&r&6&m--&e&m--&r\n\n&a&l{0}&r\n&8[&7{3}&8]\n",
-      "FOOTER": "\n&a&lSTORE&r &estore.palmen.gg\n&a&lDISCORD &r&ediscord.gg/palmen\n&8+                                        +" 
+      "FOOTER": "\n&6&lSTORE&r &estore.palmen.gg\n&2&lDISCORD &r&adiscord.gg/palmen\n&8+                                        +" 
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "Chatten har blitt satt i {0} modus.",
