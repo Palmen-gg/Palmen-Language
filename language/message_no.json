@@ -90,7 +90,7 @@
     },
     "TAB": {
       "HEADER": "&8+                                        +\n&e&m--&6&m--&8&m&l]-&r &6&lPALMEN&r &8&m&l-[&6&m--&e&m--&r\n\n&a&l{0}&r\n",
-      "FOOTER": "\n{2}\n{3}\n&6&ldiscord.gg/palmen&r\n&a&lshop.palmen.gg&r\n&7mc.palmen.gg&r\n&8+                                        +" 
+      "FOOTER": "\n{4} players online.\n({4} on this server)\n&6&ldiscord.gg/palmen&r\n&a&lshop.palmen.gg&r\n&7mc.palmen.gg&r\n&8+                                        +" 
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "Chatten har blitt satt i {0} modus.",
