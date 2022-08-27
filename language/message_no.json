@@ -152,7 +152,7 @@
     "SCOREBOARD": {
       "TITLE": "&6&lPALMEN&r",
       "LINE_1": "",
-      "LINE_2": "&8&l{line} &a&lRank&r",
+      "LINE_2": "&8&l{line} &c&lRank&r",
       "LINE_3": "&8&l{line}  &aSpiller&r",
       "LINE_4": "",
       "LINE_5": "&8&l{line} &3&lShards&r",
