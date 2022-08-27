@@ -153,7 +153,7 @@
       "TITLE": "&6&lPALMEN&r",
       "LINE_1": "",
       "LINE_2": "&3&lRank&r",
-      "LINE_3": "&bSpiller&r",
+      "LINE_3": "&4Administrator&r",
       "LINE_4": "",
       "LINE_5": "&6&lCoins&r",
       "LINE_6": "&e1337",
@@ -161,8 +161,11 @@
       "LINE_8": "&6&lBattle Pass&r",
       "LINE_9": "&eLevel 1",
       "LINE_10": "",
-      "LINE_11": "Besøk &a&lpalmen.gg&r &ffor",
-      "LINE_12": "mer informasjon!"
+      "LINE_11": "&eBesøk &a&lpalmen.gg&r&e for",
+      "LINE_12": "&emer informasjon!",
+      "LINE_13": "",
+      "LINE_14": "",
+      "LINE_15": ""
     }
   }
 }
