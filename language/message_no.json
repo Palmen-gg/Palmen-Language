@@ -152,14 +152,14 @@
     "SCOREBOARD": {
       "TITLE": "&6&lPALMEN&r",
       "LINE_1": "",
-      "LINE_2": "&b&lRang&r",
+      "LINE_2": "&b&lRank&r",
       "LINE_3": "Spiller&r",
       "LINE_4": "",
       "LINE_5": "&6&lCoins&r",
-      "LINE_6": "1&e337",
+      "LINE_6": "&e1337",
       "LINE_7": "",
-      "LINE_8": "&5&lBattle Pass&r",
-      "LINE_9": "&dLevel 1",
+      "LINE_8": "&3&lBattle Pass&r",
+      "LINE_9": "&bLevel 1",
       "LINE_10": "",
       "LINE_11": "Besøk &a&lpalmen.gg&r &ffor",
       "LINE_12": "mer informasjon!"
