@@ -90,7 +90,7 @@
     },
     "TAB": {
       "HEADER": "\n&e&m--&6&m-&2&m))&r &6&lPALMEN&r &2&m((&6&m-&e&m--&r\n\n&a&l{0}&r\n&8[&7{3}&8]\n",
-      "FOOTER": "\n&6&ldiscord.gg/palmen&r\n&a&lshop.palmen.gg&r\n&o&7mc.palmen.gg&r\n" 
+      "FOOTER": "\n&6&ldiscord.gg/palmen&r\n&a&lshop.palmen.gg&r\n&o&emc.palmen.gg&r\n" 
     },
     "MESSAGE": {
       "CHAT_MODE_CHANGE": "Chatten har blitt satt i {0} modus.",
@@ -155,7 +155,7 @@
       "LINE_2": "&8\u258E &7&lRank&r",
       "LINE_3": "&8\u258E  &aSpiller&r",
       "LINE_4": "",
-      "LINE_5": "&8\u258E &3&lShards&r",
+      "LINE_5": "&8\u258E &3&lGems&r",
       "LINE_6": "&8\u258E  &b1337",
       "LINE_7": "",
       "LINE_8": "&8\u258E &6&lBattle Pass&r",
@@ -163,9 +163,9 @@
       "LINE_10": "",
       "LINE_11": "&8\u258E &aBesøk &epalmen.gg &afor",
       "LINE_12": "&8\u258E &amer informasjon!",
-      "LINE_13": "1",
-      "LINE_14": "2",
-      "LINE_15": "3"
+      "LINE_13": "",
+      "LINE_14": "1",
+      "LINE_15": "2"
     }
   }
 }
