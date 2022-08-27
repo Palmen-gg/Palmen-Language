@@ -150,7 +150,7 @@
   },
   "TEST": {
     "SCOREBOARD": {
-      "TITLE": "&c&lBuild&r",
+      "TITLE": "&a&lBuild&r",
       "LINE_1": "",
       "LINE_2": "&b&lNavn&r",
       "LINE_3": "Varlem&r",
